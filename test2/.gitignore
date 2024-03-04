@@ -33,5 +33,11 @@ out/
 /nbdist/
 /.nb-gradle/
 
+
+###This is Yerin###
+application-external.properties
+
+
 ### VS Code ###
 .vscode/
+
